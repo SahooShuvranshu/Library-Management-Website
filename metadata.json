@@ -1,0 +1,5 @@
+{
+  "name": "Modern Library Management",
+  "description": "A clean, modern library management website with Google authentication and book cover support, powered by Supabase.",
+  "requestFramePermissions": []
+}
